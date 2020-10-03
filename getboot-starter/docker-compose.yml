@@ -1,0 +1,15 @@
+---
+
+version: "2"
+
+
+
+services:
+
+  httpd-landing1:
+
+    build: .
+
+    ports:
+
+      - "8002:80"
