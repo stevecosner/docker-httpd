@@ -3,6 +3,6 @@ Create a docker container with the Bootstrap Landing Page using the HTTPD Apache
 To use the docker-compose-volume.yml file, rename the main docker-compose.yml file and rename the volume file docker-compose.yml.
 
 Clone the Bootstrap Landing Page files into working directory.
-https://github.com/BlackrockDigital/startbootstrap-landing-page.git
+https://github.com/stevecosner/getbootstrap-starter.git
 
 

@@ -1,0 +1,7 @@
+Create a docker container with the Bootstrap Landing Page using the HTTPD Apache container.
+
+
+Clone the Bootstrap Landing Page files into your working directory if you will be using the docker-compose file.
+https://github.com/stevecosner/getbootstrap-starter.git
+
+

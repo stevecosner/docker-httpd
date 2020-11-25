@@ -10,7 +10,7 @@ services:
 
     volumes:
 
-      - ./startbootstrap-landing-page:/usr/local/apache2/htdocs/
+      - ./getbootstrap-starter:/usr/local/apache2/htdocs/
 
     ports:
 
